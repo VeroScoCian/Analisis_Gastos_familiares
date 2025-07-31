@@ -1,4 +1,5 @@
 Análisis de Gastos Familiares
+
 Propósito del Proyecto
 Este proyecto tiene como objetivo central desarrollar un sistema de análisis de gastos familiares. Utilizando datos de consumo diarios, el script automatiza la carga, limpieza y análisis para ofrecer una visión clara del flujo de efectivo. El fin último es identificar patrones de gasto y proporcionar insights que permitan realizar ajustes informados para mejorar la economía del hogar.
 
