@@ -11,6 +11,11 @@ Análisis y Visualización: Una vez limpios, los datos se analizan para determin
 
 Resumen Ejecutivo: Finalmente, el script genera un resumen escrito en la consola, destacando los principales hallazgos del análisis.
 
+Visualizacion:  
+
+![alt text](Gasto_en_el_tiempo.png)
+![alt text](Gasto_por_categoria.png)
+
 Resultados y Hallazgos Clave
 El análisis del periodo seleccionado reveló los siguientes resultados:
 
